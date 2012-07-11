@@ -1,5 +1,23 @@
-﻿@{
+﻿@using SessionlessNotification.Web.App_Start
+
+@{
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Sessionless notification example</h2>
+
+<a href="@Url.Action("Post", "Home")">Post new notification</a>
+
+<h2>Notifications:</h2>
+<ul>
+   
+@{
+    Notifications.NotificationModule.NotificationMessage message = null;
+    while ((message = Notifications.NotificationModule.PopNotificationMessage()) != null)
+    {
+        <li class="alert-message @message.Type">
+            <p>@Html.Raw(message.Message)</p>
+        </li>
+    }
+}
+</ul>
