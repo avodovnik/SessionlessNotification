@@ -1,0 +1,9 @@
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\bin\SessionlessNotification.Web.dll
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\bin\SessionlessNotification.Web.pdb
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\bin\EntityFramework.dll
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\bin\EntityFramework.xml
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\obj\Debug\ResolveAssemblyReference.cache
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\obj\Debug\SessionlessNotification.Web.dll
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\obj\Debug\SessionlessNotification.Web.pdb
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\bin\Microsoft.Web.Infrastructure.dll
+X:\Proof Of Concepts\SessionlessNotification\SessionlessNotification\SessionlessNotification.Web\bin\WebActivator.dll
